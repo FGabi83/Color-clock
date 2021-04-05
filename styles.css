@@ -1,0 +1,12 @@
+html, body {
+    height: 100%;
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 2rem;
+    margin-top: -1rem;
+  }
+  
+  #clock {
+    text-align: center;
+    position: relative;
+    bottom: -50%;
+ }
